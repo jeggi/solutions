@@ -15,7 +15,7 @@ int voteAge = 18;
     }
 else{
   int ager = voteAge - myAge;
-  printf("This is false and you can't vote for now you have to wait for %d year(s)", ager);
+  printf("This is false and you can't vote for now you have to wait for %d years", ager);
   }
   return 0;
   }
